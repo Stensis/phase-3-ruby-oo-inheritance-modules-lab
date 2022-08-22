@@ -1,4 +1,5 @@
 require 'pry'
+require_relative '../lib/concerns/Memorable.rb'
 
 # require_relative '../lib/concerns/findable'
 # require_relative '../lib/concerns/memorable'
